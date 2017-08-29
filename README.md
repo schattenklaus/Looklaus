@@ -1,2 +1,2 @@
 # Looklaus
-Common working GIT with Andreas LOOK
+Common working GIT with Andreas LooK
